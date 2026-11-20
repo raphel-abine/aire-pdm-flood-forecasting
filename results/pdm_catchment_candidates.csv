@@ -1,0 +1,18 @@
+gauge_id,gauge_name,area,elev_mean,baseflow_index,q_mean,benchmark_catch,station_type,max_gauging_flow,max_hourly_flow,station_quality_hourlyflow_issues,quncert_meta,extrap_ratio,england,flow_%,level_%,basic_qc_flag_%,suspect_peaks,validated_peaks,rain_cehgear1hr_%,rain_gradgb_%
+24004,Bedburn Beck at Bedburn,74.12,316,0.52,1.41,Y,CC,17.47,76.35,,Calculated discharge uncertainties,4.370349170005724,True,100.0,100.0,0.005185000829600133,0,2,100.0,95.93807035009125
+25006,Greta at Rutherford Bridge,86.81,402,0.35,2.31,Y,CC,31.68,119.13,,Calculated discharge uncertainties,3.7604166666666665,True,99.88696698191471,99.88696698191471,0.21569603451136554,0,0,100.0,95.93807035009125
+27035,Aire at Kildwick Bridge,283.39,230,0.47,2.05,Y,VA,95.54,156.68,,Calculated discharge uncertainties,1.6399413858069918,True,100.0,100.0,0.0,0,3,100.0,95.93807035009125
+32003,Harpers Brook at Old Mill Bridge,70.46,89,0.51,0.54,Y,FV,3.6,54.54,,Calculated discharge uncertainties,15.149999999999999,True,97.40749958519993,0.0,0.0,0,1,100.0,95.93807035009125
+38026,Pincey Brook at Sheering Hall,52.68,82,0.49,0.46,Y,FV,,,,Calculated discharge uncertainties,,True,99.20669487307117,100.0,0.5029450804712129,0,1,100.0,95.93807035009125
+40005,Beult at Stilebridge,278.05,45,0.33,0.63,Y,FVUS,78.78,101.91,,Less than 20 stage-discharge measurements available for most recent rating,1.2936024371667936,True,100.0,100.0,0.0,0,1,100.0,95.93807035009125
+41022,Lod at Halfway Bridge,52.44,82,0.43,1.01,Y,C,13.2,38.91,,Less than 20 stage-discharge measurements available for most recent rating,2.9477272727272728,True,100.0,100.0,0.0010370001659200266,0,3,100.0,95.93807035009125
+41025,Loxwood Stream at Drungewick,93.01,69,0.31,1.11,Y,CC,,,,No stage-discharge measurements available,,True,100.0,0.0,0.0,0,2,100.0,95.93807035009125
+42003,Lymington at Brockenhurst,99.88,48,0.43,0.97,Y,TPVA,38.83,80.27,,Calculated discharge uncertainties,2.0672160700489313,True,100.0,0.0,0.0,0,2,100.0,95.93807035009125
+52010,Brue at Lovington,137.86,104,0.54,1.21,Y,C VA,73.5,70.28,,Discharge uncertainty estimates not provided,0.9561904761904763,True,100.0,100.0,0.0,0,1,100.0,95.93807035009125
+53006,Frome (Bristol) at Frenchay,151.64,73,0.45,0.99,Y,FL,31.63,61.88,,Calculated discharge uncertainties,1.9563705343028772,True,100.0,100.0,0.0,0,4,100.0,95.93807035009125
+54025,Dulas at Rhos-y-pentref,53.33,342,0.47,2.27,Y,FL,6.49,62.48,,Calculated discharge uncertainties,9.627118644067796,True,100.0,100.0,0.049776007964161276,0,3,100.0,95.93807035009125
+72005,Lune at Killington,219.24,317,0.43,4.1,Y,CB,299.17,620.81,,Calculated discharge uncertainties,2.075107798241802,True,100.0,100.0,0.03422100547536088,0,1,100.0,95.93807035009125
+73005,Kent at Sedgwick,212.24,234,0.5,3.88,Y,CBVA,265.15,523.3,,Calculated discharge uncertainties,1.973599849141995,True,100.0,100.0,0.0062220009955201595,0,2,100.0,95.93807035009125
+73011,Mint at Mint Bridge,65.44,231,0.47,3.44,Y,FV,63.78,135.56,,Calculated discharge uncertainties,2.125431169645657,True,100.0,100.0,0.04355400696864112,0,1,100.0,95.93807035009125
+74001,Duddon at Duddon Hall,85.25,315,0.43,5.3,Y,CB,40.07,260.62,,Calculated discharge uncertainties,6.504117793860744,True,100.0,100.0,0.005185000829600133,0,2,100.0,95.93807035009125
+76014,Eden at Kirkby Stephen,66.82,395,0.37,3.48,Y,B VA,116.32,139.06,,No stage-discharge measurements available,1.1954951856946356,True,99.99585199933631,100.0,0.015555002488800398,0,0,100.0,95.93807035009125

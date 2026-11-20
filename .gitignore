@@ -1,0 +1,14 @@
+# Input data and regenerable outputs - recreated by the scripts
+data/
+outputs/
+ea_data/
+*_hourly.csv
+pdm_simulation_*.csv
+# Python / notebook clutter
+__pycache__/
+*.pyc
+*.nbi
+*.nbc
+.ipynb_checkpoints/
+# Secrets
+.env

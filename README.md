@@ -1,6 +1,6 @@
 # Hourly flood forecasting with the PDM and a rating-curve review: River Aire at Kildwick Bridge
 
-**Technical report | Raphel Etoyiva Abine | November 2026**
+**Technical report | Raphel Etoyiva Abine (Doctoral Researcher, Brunel University London) | November 2026**
 
 Station: 27035 Aire at Kildwick Bridge (EA station F1503), 283 km², North Yorkshire  
 Data: CAMELS-GB v2 hourly (2005–2016), plus the EA Hydrology and Flood-Monitoring APIs (2005–2026)
